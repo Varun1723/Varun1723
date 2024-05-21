@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varun1723" alt="varun1723" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=790b7611xddcssgqhfot5y6szt54zwty8lj2lmjdtw5dze3z&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 - 🔭 I’m currently working on **ICC T20 World Cup Analysis 2022**
 
 - 🌱 I’m currently learning **Machine Learning | Power BI | Data Structures**
