@@ -1,4 +1,4 @@
-[![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/789759207704611075/211E4BC614371FBBEC73160E7B4621FBF66D42B1/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)](https://rishavchanda.io)
+![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHp6ZGtzY2Q2YnFnMGdxOHppcTR3emMzb21yeWQyOGNrbTlpZXI1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BWHfiwRy9NjjDP1yAK/giphy.gif)
 
 <h1 align="center">Hola Amigos 👋, I'm Varun Singh Thakur</h1>
 <h3 align="center">A Passionate Data Engineer & Machine Learning Developer | C++ Backend Enthusiast</h3>
