@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHp6ZGtzY2Q2YnFnMGdxOHppcTR3emMzb21yeWQyOGNrbTlpZXI1ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BWHfiwRy9NjjDP1yAK/giphy.gif)
+![MasterHead](https://images.squarespace-cdn.com/content/v1/5a70a0c08a02c7fbeb4b4645/1571523118625-TKHURRBCNI8Y7ZZAV0BE/banner_website.gif?format=2500w)
 
 <h1 align="center">Hola Amigos 👋, I'm Varun Singh Thakur</h1>
 <h3 align="center">A Passionate Data Engineer & Machine Learning Developer | C++ Backend Enthusiast</h3>
